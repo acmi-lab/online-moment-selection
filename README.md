@@ -3,7 +3,7 @@
 ### Overview
 
 This repository contains the implementation for the paper: <br>
-__Efficient Online Estimation of Causal Effects by Deciding What to Observe__ [[PDF]](https://arxiv.org/pdf/) <br>
+__Efficient Online Estimation of Causal Effects by Deciding What to Observe__ [[PDF]](https://arxiv.org/pdf/2108.09265.pdf) <br>
 Shantanu Gupta, Zachary Lipton, David Childers
 
 ### Code and Datasets
@@ -31,4 +31,12 @@ And the following files inside the `data/` folder contain the data preprocessing
 ### Citation
 If you find this code useful, please consider citing our work:
 ```bib
+@misc{gupta2021efficient,
+      title={Efficient Online Estimation of Causal Effects by Deciding What to Observe}, 
+      author={Shantanu Gupta and Zachary C. Lipton and David Childers},
+      year={2021},
+      eprint={2108.09265},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
 ```
